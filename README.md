@@ -1,56 +1,32 @@
-📊 Análise de Vendas de E-commerce
-Este repositório contém um projeto de análise de dados de vendas de uma plataforma de e-commerce.
-O objetivo principal é extrair insights valiosos a partir de um conjunto de dados, abordando diversos aspectos das vendas online.
-Através dessa análise, buscamos identificar padrões de consumo, comportamentos dos clientes e oportunidades de otimização nas operações de vendas.
+# Análise de Vendas de E-commerce
 
-🎯 Objetivos do Projeto
-Faturamento Mensal:
-Analisar o desempenho financeiro do e-commerce, acompanhando o faturamento mês a mês e identificando padrões sazonais.
+Este repositório contém o projeto de análise de dados de vendas de uma plataforma de e-commerce. O objetivo principal é extrair insights valiosos a partir de um conjunto de dados que aborda diversos aspectos das vendas online. Através dessa análise, buscamos identificar padrões de consumo, comportamentos dos clientes e oportunidades para otimização das operações de vendas.
 
-Produto Mais Vendido:
-Identificar os produtos com maior volume de vendas, compreendendo preferências e tendências dos consumidores.
+## Objetivos do Projeto
 
-Distribuição por Gênero:
-Estudar o comportamento de compra dos clientes com base em características demográficas, como gênero, visando otimizar a segmentação de mercado.
+- **Faturamento Mensal:** Análise do desempenho financeiro do e-commerce, com o acompanhamento do faturamento mês a mês e a identificação de possíveis padrões sazonais.
+  
+- **Produto Mais Vendido:** Identificação dos produtos que tiveram maior volume de vendas, com o intuito de compreender preferências e tendências dos consumidores.
+  
+- **Distribuição por Gênero:** Estudo do comportamento de compras dos consumidores com base em suas características demográficas, como gênero, visando otimizar a segmentação de mercado.
+  
+- **Localização Geográfica:** Análise das vendas por região geográfica, a fim de entender quais estados ou cidades apresentam maior demanda e direcionar estratégias de marketing localizadas.
+  
+- **Forma de Pagamento:** Levantamento das preferências dos clientes em relação às formas de pagamento utilizadas, com o objetivo de ajustar e otimizar as opções oferecidas.
 
-Localização Geográfica:
-Analisar as vendas por estado e cidade para identificar regiões com maior demanda e orientar estratégias de marketing regionalizadas.
+## Tecnologias Empregadas
 
-Forma de Pagamento:
-Levantar as preferências dos clientes quanto às formas de pagamento utilizadas, com o objetivo de aprimorar a experiência de compra.
+- **Python:** Utilizado para a manipulação de dados e a realização das análises, com bibliotecas como Pandas, NumPy e Matplotlib para tratamento, análise e visualização dos dados.
+  
+- **Power BI:** Ferramenta de visualização de dados utilizada para a criação de dashboards e relatórios interativos, facilitando a compreensão e tomada de decisão.
+  
+- **GitHub:** Plataforma de versionamento de código, essencial para o gerenciamento e a colaboração no desenvolvimento do projeto.
 
-🛠️ Tecnologias Utilizadas
-Python:
-Utilizado para manipulação e análise de dados, com apoio das bibliotecas Pandas, NumPy e Matplotlib.
+## Instruções para Execução
 
-Power BI:
-Ferramenta utilizada para criação de dashboards e relatórios interativos, facilitando a visualização e interpretação dos dados.
+Clone o repositório em sua máquina local:
 
-GitHub:
-Plataforma para versionamento e colaboração no desenvolvimento do projeto.
-
-🖥️ Como Executar o Projeto
-Clone este repositório em sua máquina local:
-
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/vanessa-programacao/analise-vendas-ecommerce.git
-Navegue até a pasta do projeto:
-
-bash
-Copiar
-Editar
 cd analise-vendas-ecommerce
-Instale as dependências necessárias:
-
-bash
-Copiar
-Editar
 pip install -r requirements.txt
-Execute o script Python para gerar as análises.
-
-Utilize o Power BI para visualizar os dashboards interativos e explorar os insights.
-
-Projeto desenvolvido por Vanessa Miranda, estudante de Ciências de Dados.
-
