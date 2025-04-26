@@ -1,4 +1,4 @@
-Análise de Vendas de E-commerce
+Análise de Vendas E-commerce
 Este repositório contém o projeto de análise de dados de vendas de uma plataforma de e-commerce. O objetivo principal é extrair insights valiosos a partir de um conjunto de dados que aborda diversos aspectos das vendas online. Através dessa análise, buscamos identificar padrões de consumo, comportamentos dos clientes e oportunidades para otimização das operações de vendas.
 
 Objetivos do Projeto
