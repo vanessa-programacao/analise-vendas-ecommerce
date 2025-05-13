@@ -100,3 +100,4 @@ if __name__ == "__main__":
     import pandas as pd
     df.to_csv('vendas_processadas.csv', index=False)
     print("Arquivo CSV exportado com sucesso!")
+
